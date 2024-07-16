@@ -12,7 +12,7 @@
 # limitations under the License.
 #
 
-FROM centos:7
+FROM centos:centos8
 MAINTAINER Jonathan Gray
 RUN yum -y install epel-release \
   && yum -y install \
