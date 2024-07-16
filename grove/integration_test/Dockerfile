@@ -16,7 +16,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-FROM centos:7
+FROM centos:centos8
 
 RUN yum -y --setopt=tsflags=nodocs update && \
     yum -y --setopt=tsflags=nodocs install httpd && \
