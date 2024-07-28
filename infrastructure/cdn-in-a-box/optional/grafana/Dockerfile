@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-FROM grafana/grafana:10.2.3-ubuntu
+FROM grafana/grafana:10.4.5-ubuntu
 
 USER root
 ARG TRAFFIC_TS_RPM=traffic_stats/traffic_stats.rpm
