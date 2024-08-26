@@ -5,7 +5,7 @@
   "main": "config.ts",
   "dependencies": {
     "@types/random-ipv6": "^1.0.0",
-    "axios": "^0.28.0",
+    "axios": "^0.28.1",
     "constants": "0.0.2",
     "download-file": "^0.1.5",
     "file-exists": "^5.0.1",
@@ -19,7 +19,7 @@
     "random-ipv6": "^1.0.2",
     "selenium-webdriver": "^4.12.0",
     "webdriver-manager": "^12.1.9",
-    "xlsx": "^0.17.0"
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.9",
