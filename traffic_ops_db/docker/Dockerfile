@@ -11,7 +11,7 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 #
-FROM postgres:13.13
+FROM postgres:13.20
 
 MAINTAINER dev@trafficcontrol.apache.org
 
