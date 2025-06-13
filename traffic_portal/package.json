@@ -61,7 +61,7 @@
     "angular-sanitize": "1.8.3",
     "angular-ui-bootstrap": "0.14.3",
     "bootstrap-sass": "3.4.3",
-    "flot": "2.3.2",
+    "flot": "3.0.1",
     "font-awesome": "4.7.0",
     "jquery": "3.6.1",
     "jquery.flot.tooltip": "0.9.0",
