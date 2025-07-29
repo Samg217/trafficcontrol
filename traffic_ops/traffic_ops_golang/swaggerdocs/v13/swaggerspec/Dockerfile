@@ -16,7 +16,7 @@
 # specific language governing permissions and limitations
 # under the License.
  
-FROM python:3.13.0b2
+FROM python:3.14.0rc1
 
 WORKDIR /usr/src/app
 RUN mkdir /swagger2rst
