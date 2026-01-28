@@ -11,7 +11,7 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 #
-FROM alpine:latest AS trafficrouter-dev
+FROM alpine:3.23.3 AS trafficrouter-dev
 ARG TOMCAT_VERSION
 
 ENV TC=/go/src/github.com/apache/trafficcontrol
